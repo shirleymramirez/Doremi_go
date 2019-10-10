@@ -1,4 +1,4 @@
-# Doremi_go
+# Volunteer App
 
 ## Summary
 1. This app will allow students/kids who would like to learn how to play piano to see available piano teacher in a certain area.
